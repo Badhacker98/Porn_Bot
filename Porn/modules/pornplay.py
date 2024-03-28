@@ -6,7 +6,6 @@ import pytgcalls
 import os, yt_dlp 
 from pyrogram.types import CallbackQuery, InlineKeyboardButton, InlineKeyboardMarkup
 from pytgcalls.types import AudioVideoPiped
-from Porn.modules.pornplay import play
 
 
 #
