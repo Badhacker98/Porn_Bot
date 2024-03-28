@@ -9,7 +9,7 @@
         "telegram-porn",
         "telegram-porn-bot"
     ],
-    "repository": "https://github.com/Badhacker98/Pbx_TeamBot",
+    "repository": "https://github.com/Badhacker98/Porn_Bot",
     "stack": "container",
     "env": {
         "API_ID": {
