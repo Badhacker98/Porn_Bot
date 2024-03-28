@@ -4,6 +4,7 @@ yt-dlp==2023.12.30
 pydub
 pyrogram==2.0.106
 pymongo
+py-tgcalls==0.9.7
 python-dotenv==1.0.1
 git+https://github.com/badmunda98/py-trans.git
 git+https://github.com/badmunda98/pyrofork
