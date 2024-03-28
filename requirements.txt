@@ -1,0 +1,10 @@
+asyncio==3.4.3
+pyrogram==2.0.106
+pymongo
+python-dotenv==1.0.1
+git+https://github.com/badmunda98/py-trans.git
+git+https://github.com/badmunda98/pyrofork
+aiohttp
+pyfiglet
+pydub
+aiohttp==3.9.1
