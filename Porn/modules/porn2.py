@@ -1,7 +1,7 @@
 from pyrogram import filters
 import requests, random
 from bs4 import BeautifulSoup
-from DAXXMUSIC import app
+from Porn import Porn as app
 import pytgcalls
 import os, yt_dlp 
 from pyrogram.types import CallbackQuery, InlineKeyboardButton, InlineKeyboardMarkup
@@ -65,7 +65,7 @@ button = InlineKeyboardMarkup([
     ])
 
 
-@app.on_message(filters.command("porn"))
+@app.on_message(filters.command("pornn"))
 async def get_random_video_info(client, message):
     if len(message.command) == 1:
         await message.reply("Pʟᴇᴀsᴇ ᴘʀᴏᴠɪᴅᴇ ᴀ ᴛɪᴛʟᴇ ᴛᴏ sᴇᴀʀᴄʜ.")
