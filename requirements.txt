@@ -1,4 +1,7 @@
 asyncio==3.4.3
+beautifulsoup4
+yt-dlp==2023.12.30
+pydub
 pyrogram==2.0.106
 pymongo
 python-dotenv==1.0.1
