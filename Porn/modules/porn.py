@@ -1,7 +1,7 @@
 from pyrogram import filters
 import requests, random
 from bs4 import BeautifulSoup
-from Porn import *
+from Porn import Porn as app
 import pytgcalls
 import os, yt_dlp 
 from pyrogram.types import CallbackQuery, InlineKeyboardButton, InlineKeyboardMarkup
