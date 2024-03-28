@@ -27,8 +27,11 @@
             "value": "",
             "required": true
         },
-                    
-          "OWNER_ID": {
+    "BOT_USERNAME": {
+      "description": "Your Bot Username",
+      "required": true
+    },
+       "OWNER_ID": {
             "description": "Fill there your I'd go to @MissRose_bot pm and type /id",
             "required": true,
             "value": "6566179661"
